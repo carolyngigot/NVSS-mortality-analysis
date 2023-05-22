@@ -1,0 +1,20 @@
+---
+title: "NVSS mortality"
+author: "Carolyn Gigot"
+format: html
+editor: visual
+---
+
+```{r}
+#| include: false
+
+#Clear
+rm(list=ls())
+graphics.off()
+
+#Load packages
+library(tidyverse)
+
+#Load data
+
+```
